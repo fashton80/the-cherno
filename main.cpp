@@ -38,6 +38,6 @@ int main() {
     log.print_warn("Warning!");
     log.print_info("Info message!");
     log.print_error("Error!");
-    printf("test\n", );
+
     std::cin.get();
 }
